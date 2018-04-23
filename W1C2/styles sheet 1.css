@@ -1,0 +1,47 @@
+			a{
+				color: gray;
+				font-size: 22px;
+				text-decoration: none;
+			}
+
+			nav ul li a{
+				text-transform: capitalize;
+				font-size: 22px;
+			}
+
+			li{
+				display: inline-block;
+			}
+
+			h3{
+				text-transform: uppercase;
+				letter-spacing: 2px;
+				color: gray;
+			}
+
+			body{
+				background: black;
+				font-family: Helvetica, sans-serif;
+				padding: 50px;
+				color: gray;
+			}
+
+			div{
+				margin: 20px 0;
+				border-top: 1px solid black;
+				border-bottom: 1px solid black;
+				border-color: grey
+			}
+
+			h2{
+				text-transform: uppercase;
+				color: pink;
+				text-align: center;
+			}
+
+			img{
+				border-top: 3px solid gray;
+				border-bottom: 3px solid gray;
+				border-left: 3px solid gray;
+				border-right: 3px solid gray;
+			}
