@@ -1,0 +1,16 @@
+#header{
+  background-color: #f0efef;
+  background-image: url("../images/header_bg.jpg");
+
+}
+#header h1{
+    padding: 150px 0;
+}
+
+#benefits{
+  background-color: white;
+}
+
+#testimony{
+  background-image: url("../images/testimonial_bg.jpg");
+}
